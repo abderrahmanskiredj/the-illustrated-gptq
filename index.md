@@ -85,7 +85,7 @@ Think of running a 175B-parameter model on one GPU—GPTQ makes that real.
 
 This is just the appetizer. My full 8-page PDF, “A Detailed, Pedagogical, and Mathematical Explanation of GPTQ Quantization,” walks you through every derivation, example, and trick—from scaling basics to Hessian proofs. It’s on arXiv and downloadable below.
 
-**[Download the Full PDF](gptq_quantization.pdf)**
+**[Download the Full PDF](The illustrated GPTQ.pdf)**
 
 What do you think? Missing something? Let me know—I’d love to hear your feedback!
 
